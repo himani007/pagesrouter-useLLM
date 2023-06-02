@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "usellm": "^0.8.0"
+  }
+}
